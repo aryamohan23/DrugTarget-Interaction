@@ -17,4 +17,4 @@ python train.py
 - data.py: Manages the loading and processing of drug-target interaction datasets.
 
 ### Acknowledgments
-This work is adapted and inspired by the paper: https://pubs.rsc.org/en/content/articlelanding/2022/SC/D1SC06946B 
+This work is adapted and inspired by the this work with modifications: https://github.com/ACE-KAIST/PIGNet/tree/main)https://github.com/ACE-KAIST/PIGNet/tree/main 

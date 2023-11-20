@@ -11,10 +11,10 @@ This project focuses on the accurate prediction of drug-target interactions (DTI
 python train.py
 
 #### Files Description
-utils.py: Utility functions for data processing and model evaluation.
-train.py: Script to train the machine learning model.
-models.py: Defines the gated graph attention network architecture.
-data.py: Manages the loading and processing of drug-target interaction datasets.
+- utils.py: Utility functions for data processing and model evaluation.
+- train.py: Script to train the machine learning model.
+- models.py: Defines the gated graph attention network architecture.
+- data.py: Manages the loading and processing of drug-target interaction datasets.
 
 ### Acknowledgments
 This work is adapted and inspired by the paper: https://pubs.rsc.org/en/content/articlelanding/2022/SC/D1SC06946B 

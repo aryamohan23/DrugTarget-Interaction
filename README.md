@@ -11,10 +11,9 @@ This project focuses on the accurate prediction of drug-target interactions (DTI
 python train.py
 
 #### Files Description
-- utils.py: Utility functions for data processing and model evaluation.
 - train.py: Script to train the machine learning model.
 - models.py: Defines the gated graph attention network architecture.
-- data.py: Manages the loading and processing of drug-target interaction datasets.
+- preprocess.py: Manages the loading and processing of drug-target interaction datasets.
 
 ### Acknowledgments
 This work is adapted and inspired by the this work with modifications: https://github.com/ACE-KAIST/PIGNet/tree/main)https://github.com/ACE-KAIST/PIGNet/tree/main 
